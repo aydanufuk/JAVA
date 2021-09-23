@@ -1,0 +1,1 @@
+samples of singleton pattern in java
